@@ -1,0 +1,5976 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.712723,
+              29.97174,
+              0
+            ],
+            [
+              31.708474,
+              29.968357,
+              0
+            ],
+            [
+              31.710062,
+              29.966944,
+              0
+            ],
+            [
+              31.714525,
+              29.97029,
+              0
+            ],
+            [
+              31.712723,
+              29.97174,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Castle Development",
+        "Consulting": "castle",
+        "Location": "R7 A1",
+        "Area": "43 acre",
+        "BUA": "40%",
+        "Apart.SF Av.P": 11150,
+        "Apart.FF Av.P": 14780,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 12,
+        "Launched": 2018,
+        "Facebook": 14668,
+        "Instagram": 1539,
+        "Payment Plan": "10%+10Y+15%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2021,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Castle Landmark"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.713567,
+              29.976649,
+              0
+            ],
+            [
+              31.712859,
+              29.976464,
+              0
+            ],
+            [
+              31.71038,
+              29.974484,
+              0
+            ],
+            [
+              31.713953,
+              29.971826,
+              0
+            ],
+            [
+              31.716324,
+              29.974633,
+              0
+            ],
+            [
+              31.71626,
+              29.974967,
+              0
+            ],
+            [
+              31.713985,
+              29.976659,
+              0
+            ],
+            [
+              31.713567,
+              29.976649,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Home",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 18334,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": 17800,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": null,
+        "Facebook": 12038,
+        "Instagram": 1201,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "MIDTOWN VILLA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.716882,
+              29.97456,
+              0
+            ],
+            [
+              31.714243,
+              29.971456,
+              0
+            ],
+            [
+              31.71758,
+              29.969634,
+              0
+            ],
+            [
+              31.719672,
+              29.97297,
+              0
+            ],
+            [
+              31.716882,
+              29.97456,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "MBG",
+        "Consulting": null,
+        "Location": "R7 B9",
+        "Area": "41 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": 19821,
+        "Instagram": 1072,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "PUKKA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.720015,
+              29.972806,
+              0
+            ],
+            [
+              31.717934,
+              29.969367,
+              0
+            ],
+            [
+              31.722096,
+              29.967749,
+              0
+            ],
+            [
+              31.723845,
+              29.971309,
+              0
+            ],
+            [
+              31.720015,
+              29.972806,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "SUD",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "59 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 12500,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 8,
+        "Launched": 2017,
+        "Facebook": 136373,
+        "Instagram": 2112,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2021,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "CAPITAL HEIGHTS 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.714813,
+              29.970145,
+              0
+            ],
+            [
+              31.711208,
+              29.967543,
+              0
+            ],
+            [
+              31.71256,
+              29.965684,
+              0
+            ],
+            [
+              31.71359,
+              29.965981,
+              0
+            ],
+            [
+              31.714384,
+              29.966167,
+              0
+            ],
+            [
+              31.715757,
+              29.966056,
+              0
+            ],
+            [
+              31.715672,
+              29.968286,
+              0
+            ],
+            [
+              31.714813,
+              29.970145,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Akam",
+        "Consulting": "YBA ياسر البلتاجي",
+        "Location": "R7 A2",
+        "Area": "39 acre",
+        "BUA": "19%",
+        "Apart.SF Av.P": 11700,
+        "Apart.FF Av.P": 14650,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 11700,
+        "Dupl.FF Av.P": 14650,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 10,
+        "Launched": 2018,
+        "Facebook": 19595,
+        "Instagram": 2372,
+        "Payment Plan": "0%+5Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Scenario"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.701133,
+              29.96431,
+              0
+            ],
+            [
+              31.701476,
+              29.963901,
+              0
+            ],
+            [
+              31.701433,
+              29.963325,
+              0
+            ],
+            [
+              31.704287,
+              29.962618,
+              0
+            ],
+            [
+              31.70551,
+              29.965147,
+              0
+            ],
+            [
+              31.706819,
+              29.966968,
+              0
+            ],
+            [
+              31.707892,
+              29.968046,
+              0
+            ],
+            [
+              31.705188,
+              29.970444,
+              0
+            ],
+            [
+              31.70345,
+              29.96853,
+              0
+            ],
+            [
+              31.702184,
+              29.966727,
+              0
+            ],
+            [
+              31.701133,
+              29.96431,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Sorouh Development",
+        "Consulting": null,
+        "Location": "R7 B1",
+        "Area": "72 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": 12750,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 12500,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 8,
+        "Launched": 2018,
+        "Facebook": 33868,
+        "Instagram": 1500,
+        "Payment Plan": "0%+4Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Entrada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.701124,
+              29.962833,
+              0
+            ],
+            [
+              31.700287,
+              29.962368,
+              0
+            ],
+            [
+              31.699815,
+              29.959189,
+              0
+            ],
+            [
+              31.70312,
+              29.958966,
+              0
+            ],
+            [
+              31.703742,
+              29.961829,
+              0
+            ],
+            [
+              31.70372,
+              29.962052,
+              0
+            ],
+            [
+              31.701124,
+              29.962833,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "New Plan",
+        "Consulting": null,
+        "Location": "R7 G1",
+        "Area": "35 acre",
+        "BUA": "18%",
+        "Apart.SF Av.P": 11600,
+        "Apart.FF Av.P": 16500,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 16500,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 10,
+        "Launched": 2019,
+        "Facebook": 54671,
+        "Instagram": 187,
+        "Payment Plan": "0%+4Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Atika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.699969,
+              29.958834,
+              0
+            ],
+            [
+              31.699862,
+              29.956994,
+              0
+            ],
+            [
+              31.700677,
+              29.952513,
+              0
+            ],
+            [
+              31.701321,
+              29.952141,
+              0
+            ],
+            [
+              31.702351,
+              29.952308,
+              0
+            ],
+            [
+              31.70705,
+              29.953554,
+              0
+            ],
+            [
+              31.70705,
+              29.9548,
+              0
+            ],
+            [
+              31.70823,
+              29.955265,
+              0
+            ],
+            [
+              31.707951,
+              29.955934,
+              0
+            ],
+            [
+              31.707908,
+              29.958276,
+              0
+            ],
+            [
+              31.699969,
+              29.958834,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Home",
+        "Consulting": null,
+        "Location": "R7 G3",
+        "Area": "66 acre",
+        "BUA": "18%",
+        "Apart.SF Av.P": 12000,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 15000,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": 19857,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": 2018,
+        "Facebook": 12038,
+        "Instagram": 1201,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2021,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Midtown SKY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.709247,
+              29.960958,
+              0
+            ],
+            [
+              31.709032,
+              29.960791,
+              0
+            ],
+            [
+              31.708861,
+              29.960233,
+              0
+            ],
+            [
+              31.70856,
+              29.959034,
+              0
+            ],
+            [
+              31.708432,
+              29.957891,
+              0
+            ],
+            [
+              31.708496,
+              29.956757,
+              0
+            ],
+            [
+              31.708732,
+              29.955771,
+              0
+            ],
+            [
+              31.709145,
+              29.955692,
+              0
+            ],
+            [
+              31.709875,
+              29.955929,
+              0
+            ],
+            [
+              31.710411,
+              29.955855,
+              0
+            ],
+            [
+              31.710867,
+              29.955218,
+              0
+            ],
+            [
+              31.711355,
+              29.955032,
+              0
+            ],
+            [
+              31.712686,
+              29.955465,
+              0
+            ],
+            [
+              31.712997,
+              29.955836,
+              0
+            ],
+            [
+              31.712755,
+              29.95684,
+              0
+            ],
+            [
+              31.712788,
+              29.958123,
+              0
+            ],
+            [
+              31.713131,
+              29.95961,
+              0
+            ],
+            [
+              31.712637,
+              29.960317,
+              0
+            ],
+            [
+              31.709247,
+              29.960958,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Master Group",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "The City Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.701965,
+              29.951861,
+              0
+            ],
+            [
+              31.701579,
+              29.951192,
+              0
+            ],
+            [
+              31.704068,
+              29.946655,
+              0
+            ],
+            [
+              31.706858,
+              29.94751,
+              0
+            ],
+            [
+              31.709733,
+              29.949072,
+              0
+            ],
+            [
+              31.711278,
+              29.950485,
+              0
+            ],
+            [
+              31.709476,
+              29.952568,
+              0
+            ],
+            [
+              31.708274,
+              29.95227,
+              0
+            ],
+            [
+              31.70763,
+              29.952307,
+              0
+            ],
+            [
+              31.707029,
+              29.953162,
+              0
+            ],
+            [
+              31.701965,
+              29.951861,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Misr Italia",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": 104883,
+        "Instagram": 6744,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Vinci"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.706401,
+              29.947071,
+              0
+            ],
+            [
+              31.70432,
+              29.94642,
+              0
+            ],
+            [
+              31.705328,
+              29.943966,
+              0
+            ],
+            [
+              31.705908,
+              29.943575,
+              0
+            ],
+            [
+              31.706659,
+              29.94337,
+              0
+            ],
+            [
+              31.707839,
+              29.943612,
+              0
+            ],
+            [
+              31.707925,
+              29.94404,
+              0
+            ],
+            [
+              31.707345,
+              29.945546,
+              0
+            ],
+            [
+              31.706401,
+              29.947071,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Edge Holding",
+        "Consulting": null,
+        "Location": "R7 G5",
+        "Area": "30 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": 24864,
+        "Instagram": 1530,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "OIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.709212,
+              29.948456,
+              0
+            ],
+            [
+              31.706959,
+              29.947303,
+              0
+            ],
+            [
+              31.706873,
+              29.947024,
+              0
+            ],
+            [
+              31.708225,
+              29.9439,
+              0
+            ],
+            [
+              31.708461,
+              29.943752,
+              0
+            ],
+            [
+              31.710671,
+              29.943956,
+              0
+            ],
+            [
+              31.712259,
+              29.946429,
+              0
+            ],
+            [
+              31.712088,
+              29.946801,
+              0
+            ],
+            [
+              31.71065,
+              29.947322,
+              0
+            ],
+            [
+              31.709212,
+              29.948456,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "OUD",
+        "Consulting": "المهندس/عمر عقيل",
+        "Location": "R7 G6",
+        "Area": "48 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 12625,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 21000,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": 21000,
+        "Twin-H.FF Av.P": null,
+        "Installments": 7,
+        "Launched": 2018,
+        "Facebook": 66897,
+        "Instagram": 25900,
+        "Payment Plan": "10%+4Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Janoub"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.711594,
+              29.950251,
+              0
+            ],
+            [
+              31.709792,
+              29.948708,
+              0
+            ],
+            [
+              31.710843,
+              29.947666,
+              0
+            ],
+            [
+              31.712409,
+              29.946941,
+              0
+            ],
+            [
+              31.713632,
+              29.948819,
+              0
+            ],
+            [
+              31.713547,
+              29.949024,
+              0
+            ],
+            [
+              31.711594,
+              29.950251,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Rafco",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Il Mondo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.713289,
+              29.95515,
+              0
+            ],
+            [
+              31.712903,
+              29.955336,
+              0
+            ],
+            [
+              31.711379,
+              29.954815,
+              0
+            ],
+            [
+              31.711208,
+              29.954369,
+              0
+            ],
+            [
+              31.711572,
+              29.953718,
+              0
+            ],
+            [
+              31.711401,
+              29.953309,
+              0
+            ],
+            [
+              31.710221,
+              29.952919,
+              0
+            ],
+            [
+              31.710092,
+              29.952547,
+              0
+            ],
+            [
+              31.710972,
+              29.951413,
+              0
+            ],
+            [
+              31.712088,
+              29.950335,
+              0
+            ],
+            [
+              31.713439,
+              29.949442,
+              0
+            ],
+            [
+              31.713954,
+              29.949312,
+              0
+            ],
+            [
+              31.714341,
+              29.949535,
+              0
+            ],
+            [
+              31.715757,
+              29.95184,
+              0
+            ],
+            [
+              31.715542,
+              29.952436,
+              0
+            ],
+            [
+              31.714212,
+              29.953774,
+              0
+            ],
+            [
+              31.713289,
+              29.95515,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Master Group",
+        "Consulting": null,
+        "Location": "R7 H2",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": 9975,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 7,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "5%+5Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "The City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.714412,
+              29.948562,
+              0
+            ],
+            [
+              31.712696,
+              29.94581,
+              0
+            ],
+            [
+              31.712266,
+              29.944583,
+              0
+            ],
+            [
+              31.71261,
+              29.94436,
+              0
+            ],
+            [
+              31.719133,
+              29.945252,
+              0
+            ],
+            [
+              31.718918,
+              29.947595,
+              0
+            ],
+            [
+              31.717846,
+              29.947521,
+              0
+            ],
+            [
+              31.716129,
+              29.947856,
+              0
+            ],
+            [
+              31.714412,
+              29.948562,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Home",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "60 acre",
+        "BUA": "18%",
+        "Apart.SF Av.P": 12000,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 12000,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": 2018,
+        "Facebook": 12038,
+        "Instagram": 1201,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Midtown Condo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.720871,
+              29.950858,
+              0
+            ],
+            [
+              31.72056,
+              29.949901,
+              0
+            ],
+            [
+              31.720635,
+              29.94965,
+              0
+            ],
+            [
+              31.721161,
+              29.94938,
+              0
+            ],
+            [
+              31.721397,
+              29.949148,
+              0
+            ],
+            [
+              31.721568,
+              29.948413,
+              0
+            ],
+            [
+              31.721665,
+              29.948376,
+              0
+            ],
+            [
+              31.722609,
+              29.948674,
+              0
+            ],
+            [
+              31.723478,
+              29.94898,
+              0
+            ],
+            [
+              31.724733,
+              29.949501,
+              0
+            ],
+            [
+              31.725345,
+              29.94991,
+              0
+            ],
+            [
+              31.725334,
+              29.950245,
+              0
+            ],
+            [
+              31.724991,
+              29.95044,
+              0
+            ],
+            [
+              31.723682,
+              29.950728,
+              0
+            ],
+            [
+              31.722352,
+              29.950821,
+              0
+            ],
+            [
+              31.720871,
+              29.950858,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Smart View",
+        "Consulting": null,
+        "Location": "R7 G2",
+        "Area": "21 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Town Gate"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.721417,
+              29.952367,
+              0
+            ],
+            [
+              31.720548,
+              29.952618,
+              0
+            ],
+            [
+              31.719571,
+              29.953083,
+              0
+            ],
+            [
+              31.718638,
+              29.953743,
+              0
+            ],
+            [
+              31.718402,
+              29.953594,
+              0
+            ],
+            [
+              31.717715,
+              29.952925,
+              0
+            ],
+            [
+              31.717608,
+              29.952646,
+              0
+            ],
+            [
+              31.717748,
+              29.952172,
+              0
+            ],
+            [
+              31.718799,
+              29.951828,
+              0
+            ],
+            [
+              31.72087,
+              29.951456,
+              0
+            ],
+            [
+              31.721417,
+              29.952367,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "New Plan",
+        "Consulting": null,
+        "Location": "R7 N1",
+        "Area": "15 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 11450,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 10,
+        "Launched": 2018,
+        "Facebook": 54671,
+        "Instagram": 187,
+        "Payment Plan": "0%+4Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2021,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Serano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.718935,
+              29.953912,
+              0
+            ],
+            [
+              31.719836,
+              29.953261,
+              0
+            ],
+            [
+              31.721445,
+              29.952592,
+              0
+            ],
+            [
+              31.722389,
+              29.953745,
+              0
+            ],
+            [
+              31.720158,
+              29.954674,
+              0
+            ],
+            [
+              31.719911,
+              29.954762,
+              0
+            ],
+            [
+              31.719648,
+              29.954698,
+              0
+            ],
+            [
+              31.718935,
+              29.953912,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Pyramids",
+        "Consulting": null,
+        "Location": "R7 N2",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 17750,
+        "Pent-H.FF Av.P": 17750,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 15,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "0%+8Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "la Capitale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.721576,
+              29.952304,
+              0
+            ],
+            [
+              31.721158,
+              29.951458,
+              0
+            ],
+            [
+              31.724033,
+              29.951206,
+              0
+            ],
+            [
+              31.724709,
+              29.951095,
+              0
+            ],
+            [
+              31.72516,
+              29.95195,
+              0
+            ],
+            [
+              31.723143,
+              29.95209,
+              0
+            ],
+            [
+              31.721576,
+              29.952304,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "SAK",
+        "Consulting": null,
+        "Location": "R7 N4",
+        "Area": "11 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 11250,
+        "Apart.FF Av.P": 12750,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "0%+1Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2021,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Sueno"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.725339,
+              29.951962,
+              0
+            ],
+            [
+              31.724888,
+              29.95106,
+              0
+            ],
+            [
+              31.725586,
+              29.950772,
+              0
+            ],
+            [
+              31.726058,
+              29.95054,
+              0
+            ],
+            [
+              31.726326,
+              29.950484,
+              0
+            ],
+            [
+              31.726552,
+              29.950568,
+              0
+            ],
+            [
+              31.72829,
+              29.952083,
+              0
+            ],
+            [
+              31.726627,
+              29.952083,
+              0
+            ],
+            [
+              31.725339,
+              29.951962,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "New Jeresy",
+        "Consulting": null,
+        "Location": "R7 N6",
+        "Area": "11 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 9500,
+        "Apart.FF Av.P": 13375,
+        "Pent-H.FF Av.P": 13375,
+        "Dupl.SF Av.P": 9875,
+        "Dupl.FF Av.P": 13375,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 9,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "5%+7Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Green Avenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.725929,
+              29.953304,
+              0
+            ],
+            [
+              31.72535,
+              29.952189,
+              0
+            ],
+            [
+              31.726809,
+              29.952291,
+              0
+            ],
+            [
+              31.727893,
+              29.952263,
+              0
+            ],
+            [
+              31.728483,
+              29.952272,
+              0
+            ],
+            [
+              31.729588,
+              29.953351,
+              0
+            ],
+            [
+              31.729631,
+              29.953592,
+              0
+            ],
+            [
+              31.729491,
+              29.953778,
+              0
+            ],
+            [
+              31.729266,
+              29.953788,
+              0
+            ],
+            [
+              31.727742,
+              29.953332,
+              0
+            ],
+            [
+              31.725929,
+              29.953304,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Hose",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Sky Capital"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.726108,
+              29.955619,
+              0
+            ],
+            [
+              31.723898,
+              29.954373,
+              0
+            ],
+            [
+              31.724992,
+              29.953927,
+              0
+            ],
+            [
+              31.726794,
+              29.953667,
+              0
+            ],
+            [
+              31.728983,
+              29.954076,
+              0
+            ],
+            [
+              31.730957,
+              29.955061,
+              0
+            ],
+            [
+              31.731601,
+              29.956251,
+              0
+            ],
+            [
+              31.726945,
+              29.956344,
+              0
+            ],
+            [
+              31.726108,
+              29.955619,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Gates",
+        "Consulting": null,
+        "Location": "R7 I3",
+        "Area": "40 acre",
+        "BUA": "11%",
+        "Apart.SF Av.P": 10750,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": 18188,
+        "V.FF Av.P": null,
+        "Project": "Catalan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.727181,
+              29.956656,
+              0
+            ],
+            [
+              31.72731,
+              29.956526,
+              0
+            ],
+            [
+              31.731644,
+              29.956451,
+              0
+            ],
+            [
+              31.731902,
+              29.956897,
+              0
+            ],
+            [
+              31.73218,
+              29.957827,
+              0
+            ],
+            [
+              31.732196,
+              29.958092,
+              0
+            ],
+            [
+              31.732116,
+              29.958273,
+              0
+            ],
+            [
+              31.728232,
+              29.958254,
+              0
+            ],
+            [
+              31.728018,
+              29.958106,
+              0
+            ],
+            [
+              31.727181,
+              29.956656,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Living Yards",
+        "Consulting": null,
+        "Location": "R7 I1",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": 11500,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 10,
+        "Launched": 2018,
+        "Facebook": 17445,
+        "Instagram": 1455,
+        "Payment Plan": "0%+6Y+10%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "The Loft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.73202,
+              29.963463,
+              0
+            ],
+            [
+              31.728297,
+              29.963063,
+              0
+            ],
+            [
+              31.727953,
+              29.962803,
+              0
+            ],
+            [
+              31.728297,
+              29.961269,
+              0
+            ],
+            [
+              31.728425,
+              29.960228,
+              0
+            ],
+            [
+              31.728661,
+              29.96008,
+              0
+            ],
+            [
+              31.73247,
+              29.960033,
+              0
+            ],
+            [
+              31.73202,
+              29.963463,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Gasco ",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Gasco "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.728447,
+              29.965773,
+              0
+            ],
+            [
+              31.727921,
+              29.965234,
+              0
+            ],
+            [
+              31.727878,
+              29.964193,
+              0
+            ],
+            [
+              31.728093,
+              29.963543,
+              0
+            ],
+            [
+              31.728436,
+              29.963375,
+              0
+            ],
+            [
+              31.729166,
+              29.96345,
+              0
+            ],
+            [
+              31.730067,
+              29.963636,
+              0
+            ],
+            [
+              31.730968,
+              29.963728,
+              0
+            ],
+            [
+              31.731912,
+              29.963747,
+              0
+            ],
+            [
+              31.731977,
+              29.965457,
+              0
+            ],
+            [
+              31.728447,
+              29.965773,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "El Attal",
+        "Consulting": null,
+        "Location": "R7 D2",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": 12000,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 11500,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 8,
+        "Launched": null,
+        "Facebook": 32919,
+        "Instagram": 1634,
+        "Payment Plan": "7%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Park Lane"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.73171,
+              29.954952,
+              0
+            ],
+            [
+              31.733942,
+              29.955733,
+              0
+            ],
+            [
+              31.734843,
+              29.955882,
+              0
+            ],
+            [
+              31.736431,
+              29.955547,
+              0
+            ],
+            [
+              31.737547,
+              29.955176,
+              0
+            ],
+            [
+              31.738577,
+              29.955064,
+              0
+            ],
+            [
+              31.738877,
+              29.95525,
+              0
+            ],
+            [
+              31.73892,
+              29.958224,
+              0
+            ],
+            [
+              31.73274,
+              29.958224,
+              0
+            ],
+            [
+              31.73244,
+              29.95696,
+              0
+            ],
+            [
+              31.73171,
+              29.954952,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Pyramids",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "31 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 22000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 15,
+        "Launched": 2020,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "0%+8Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "La Capitale Suite Lagoon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.738952,
+              29.961864,
+              0
+            ],
+            [
+              31.735487,
+              29.961804,
+              0
+            ],
+            [
+              31.735519,
+              29.960117,
+              0
+            ],
+            [
+              31.735573,
+              29.958797,
+              0
+            ],
+            [
+              31.738834,
+              29.958816,
+              0
+            ],
+            [
+              31.738952,
+              29.961864,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Progate",
+        "Consulting": null,
+        "Location": "R7 E1",
+        "Area": "33 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 10000,
+        "Apart.FF Av.P": 13000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 9,
+        "Launched": 2019,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "5%+7Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Zavani"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.735336,
+              29.9655,
+              0
+            ],
+            [
+              31.732676,
+              29.965408,
+              0
+            ],
+            [
+              31.732568,
+              29.965166,
+              0
+            ],
+            [
+              31.732847,
+              29.960072,
+              0
+            ],
+            [
+              31.735336,
+              29.959979,
+              0
+            ],
+            [
+              31.735267,
+              29.962745,
+              0
+            ],
+            [
+              31.735336,
+              29.9655,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "The Land Developers",
+        "Consulting": null,
+        "Location": "R7 E3",
+        "Area": "42 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Armonia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.7389472,
+              29.9657714,
+              0
+            ],
+            [
+              31.7354922,
+              29.9655114,
+              0
+            ],
+            [
+              31.7354062,
+              29.9619794,
+              0
+            ],
+            [
+              31.7388612,
+              29.9619794,
+              0
+            ],
+            [
+              31.7389472,
+              29.9657714,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "solana ",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "solana "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.727469,
+              29.963051,
+              0
+            ],
+            [
+              31.725002,
+              29.962976,
+              0
+            ],
+            [
+              31.724916,
+              29.962642,
+              0
+            ],
+            [
+              31.725216,
+              29.962344,
+              0
+            ],
+            [
+              31.725581,
+              29.961336,
+              0
+            ],
+            [
+              31.725562,
+              29.960348,
+              0
+            ],
+            [
+              31.725517,
+              29.959797,
+              0
+            ],
+            [
+              31.725388,
+              29.958998,
+              0
+            ],
+            [
+              31.725646,
+              29.958719,
+              0
+            ],
+            [
+              31.727662,
+              29.958682,
+              0
+            ],
+            [
+              31.728049,
+              29.959054,
+              0
+            ],
+            [
+              31.728092,
+              29.960671,
+              0
+            ],
+            [
+              31.727727,
+              29.962828,
+              0
+            ],
+            [
+              31.727469,
+              29.963051,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Golden Egale",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Golden Egale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.716608,
+              29.965181,
+              0
+            ],
+            [
+              31.716157,
+              29.963656,
+              0
+            ],
+            [
+              31.715406,
+              29.962188,
+              0
+            ],
+            [
+              31.714677,
+              29.961258,
+              0
+            ],
+            [
+              31.71472,
+              29.960756,
+              0
+            ],
+            [
+              31.715342,
+              29.96031,
+              0
+            ],
+            [
+              31.716308,
+              29.960254,
+              0
+            ],
+            [
+              31.717144,
+              29.959994,
+              0
+            ],
+            [
+              31.717702,
+              29.959975,
+              0
+            ],
+            [
+              31.718217,
+              29.961295,
+              0
+            ],
+            [
+              31.719162,
+              29.962336,
+              0
+            ],
+            [
+              31.720771,
+              29.963396,
+              0
+            ],
+            [
+              31.718389,
+              29.964195,
+              0
+            ],
+            [
+              31.716608,
+              29.965181,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "El Asreya Development",
+        "Consulting": null,
+        "Location": "R7 L5",
+        "Area": "45 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": 11250,
+        "Apart.FF Av.P": 14000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 12000,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Boardwalk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.704291,
+              29.961714,
+              0
+            ],
+            [
+              31.703605,
+              29.959037,
+              0
+            ],
+            [
+              31.707725,
+              29.958702,
+              0
+            ],
+            [
+              31.708583,
+              29.96097,
+              0
+            ],
+            [
+              31.704291,
+              29.961714,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Akam",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Scene 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.718192,
+              29.959719,
+              0
+            ],
+            [
+              31.718074,
+              29.959208,
+              0
+            ],
+            [
+              31.718053,
+              29.958464,
+              0
+            ],
+            [
+              31.718342,
+              29.957498,
+              0
+            ],
+            [
+              31.71905,
+              29.956512,
+              0
+            ],
+            [
+              31.719651,
+              29.956196,
+              0
+            ],
+            [
+              31.720209,
+              29.956178,
+              0
+            ],
+            [
+              31.720617,
+              29.957274,
+              0
+            ],
+            [
+              31.720874,
+              29.957851,
+              0
+            ],
+            [
+              31.720499,
+              29.95813,
+              0
+            ],
+            [
+              31.720005,
+              29.958204,
+              0
+            ],
+            [
+              31.719522,
+              29.958288,
+              0
+            ],
+            [
+              31.719362,
+              29.958511,
+              0
+            ],
+            [
+              31.719276,
+              29.958855,
+              0
+            ],
+            [
+              31.719319,
+              29.959152,
+              0
+            ],
+            [
+              31.718192,
+              29.959719,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Bedaya",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "16 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Le Ciel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.723606,
+              29.963039,
+              0
+            ],
+            [
+              31.723392,
+              29.963234,
+              0
+            ],
+            [
+              31.722812,
+              29.963364,
+              0
+            ],
+            [
+              31.722158,
+              29.96329,
+              0
+            ],
+            [
+              31.721085,
+              29.962936,
+              0
+            ],
+            [
+              31.720194,
+              29.9625,
+              0
+            ],
+            [
+              31.719497,
+              29.961905,
+              0
+            ],
+            [
+              31.718875,
+              29.961096,
+              0
+            ],
+            [
+              31.71836,
+              29.959962,
+              0
+            ],
+            [
+              31.719218,
+              29.959488,
+              0
+            ],
+            [
+              31.720098,
+              29.959116,
+              0
+            ],
+            [
+              31.720999,
+              29.959116,
+              0
+            ],
+            [
+              31.721374,
+              29.959442,
+              0
+            ],
+            [
+              31.721246,
+              29.95999,
+              0
+            ],
+            [
+              31.721181,
+              29.960399,
+              0
+            ],
+            [
+              31.721503,
+              29.96105,
+              0
+            ],
+            [
+              31.72234,
+              29.961458,
+              0
+            ],
+            [
+              31.722801,
+              29.961719,
+              0
+            ],
+            [
+              31.723606,
+              29.963039,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Master Group",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "City Oval"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.720493,
+              29.956069,
+              0
+            ],
+            [
+              31.720632,
+              29.95605,
+              0
+            ],
+            [
+              31.721684,
+              29.956413,
+              0
+            ],
+            [
+              31.722799,
+              29.956924,
+              0
+            ],
+            [
+              31.723711,
+              29.957612,
+              0
+            ],
+            [
+              31.72457,
+              29.958597,
+              0
+            ],
+            [
+              31.724559,
+              29.958764,
+              0
+            ],
+            [
+              31.722574,
+              29.958514,
+              0
+            ],
+            [
+              31.721394,
+              29.958253,
+              0
+            ],
+            [
+              31.721072,
+              29.957854,
+              0
+            ],
+            [
+              31.720493,
+              29.956069,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Altameer Arabian",
+        "Consulting": null,
+        "Location": "R7 F5",
+        "Area": "17 acre",
+        "BUA": "18%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Rivan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.724076,
+              29.962947,
+              0
+            ],
+            [
+              31.723787,
+              29.9629,
+              0
+            ],
+            [
+              31.723079,
+              29.961608,
+              0
+            ],
+            [
+              31.722478,
+              29.961153,
+              0
+            ],
+            [
+              31.722124,
+              29.960846,
+              0
+            ],
+            [
+              31.722134,
+              29.960084,
+              0
+            ],
+            [
+              31.722714,
+              29.959285,
+              0
+            ],
+            [
+              31.723186,
+              29.958801,
+              0
+            ],
+            [
+              31.724688,
+              29.958968,
+              0
+            ],
+            [
+              31.724967,
+              29.959591,
+              0
+            ],
+            [
+              31.725085,
+              29.960539,
+              0
+            ],
+            [
+              31.72501,
+              29.961525,
+              0
+            ],
+            [
+              31.724602,
+              29.962426,
+              0
+            ],
+            [
+              31.724076,
+              29.962947,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": null,
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Commercial area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.714725,
+              29.948842,
+              0
+            ],
+            [
+              31.716227,
+              29.948378,
+              0
+            ],
+            [
+              31.718008,
+              29.94808,
+              0
+            ],
+            [
+              31.719553,
+              29.948099,
+              0
+            ],
+            [
+              31.721119,
+              29.948285,
+              0
+            ],
+            [
+              31.721334,
+              29.948601,
+              0
+            ],
+            [
+              31.721012,
+              29.949252,
+              0
+            ],
+            [
+              31.720368,
+              29.949586,
+              0
+            ],
+            [
+              31.720218,
+              29.949921,
+              0
+            ],
+            [
+              31.720433,
+              29.950832,
+              0
+            ],
+            [
+              31.719038,
+              29.951148,
+              0
+            ],
+            [
+              31.717321,
+              29.951594,
+              0
+            ],
+            [
+              31.716077,
+              29.951352,
+              0
+            ],
+            [
+              31.714725,
+              29.949233,
+              0
+            ],
+            [
+              31.714725,
+              29.948842,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Nokhba ",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Nokhba "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.72187,
+              29.948064,
+              0
+            ],
+            [
+              31.722364,
+              29.945554,
+              0
+            ],
+            [
+              31.727449,
+              29.946391,
+              0
+            ],
+            [
+              31.727964,
+              29.946949,
+              0
+            ],
+            [
+              31.728136,
+              29.947804,
+              0
+            ],
+            [
+              31.727836,
+              29.94851,
+              0
+            ],
+            [
+              31.727042,
+              29.949291,
+              0
+            ],
+            [
+              31.726162,
+              29.949775,
+              0
+            ],
+            [
+              31.725647,
+              29.94957,
+              0
+            ],
+            [
+              31.72481,
+              29.949124,
+              0
+            ],
+            [
+              31.723587,
+              29.948585,
+              0
+            ],
+            [
+              31.72187,
+              29.948064,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Army Housing- zohour",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Army Housing- zohour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.715896,
+              29.965553,
+              0
+            ],
+            [
+              31.71493,
+              29.965664,
+              0
+            ],
+            [
+              31.713944,
+              29.965627,
+              0
+            ],
+            [
+              31.712785,
+              29.965293,
+              0
+            ],
+            [
+              31.711905,
+              29.964828,
+              0
+            ],
+            [
+              31.711132,
+              29.964196,
+              0
+            ],
+            [
+              31.710081,
+              29.962988,
+              0
+            ],
+            [
+              31.709416,
+              29.961761,
+              0
+            ],
+            [
+              31.709545,
+              29.961519,
+              0
+            ],
+            [
+              31.71036,
+              29.961333,
+              0
+            ],
+            [
+              31.71169,
+              29.961073,
+              0
+            ],
+            [
+              31.712527,
+              29.960943,
+              0
+            ],
+            [
+              31.713214,
+              29.961128,
+              0
+            ],
+            [
+              31.714072,
+              29.961389,
+              0
+            ],
+            [
+              31.714673,
+              29.962114,
+              0
+            ],
+            [
+              31.715403,
+              29.963694,
+              0
+            ],
+            [
+              31.715896,
+              29.965553,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Al Fadeaa",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Al Fadeaa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.70963,
+              29.966359,
+              0
+            ],
+            [
+              31.709588,
+              29.966582,
+              0
+            ],
+            [
+              31.708086,
+              29.96779,
+              0
+            ],
+            [
+              31.70727,
+              29.96701,
+              0
+            ],
+            [
+              31.706519,
+              29.966043,
+              0
+            ],
+            [
+              31.705575,
+              29.96476,
+              0
+            ],
+            [
+              31.704545,
+              29.962753,
+              0
+            ],
+            [
+              31.704674,
+              29.962511,
+              0
+            ],
+            [
+              31.708472,
+              29.961786,
+              0
+            ],
+            [
+              31.708858,
+              29.96186,
+              0
+            ],
+            [
+              31.710532,
+              29.964128,
+              0
+            ],
+            [
+              31.710532,
+              29.964426,
+              0
+            ],
+            [
+              31.70933,
+              29.965448,
+              0
+            ],
+            [
+              31.709244,
+              29.965894,
+              0
+            ],
+            [
+              31.70963,
+              29.966359,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": null,
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Azaher"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.717924,
+              29.968745,
+              0
+            ],
+            [
+              31.717323,
+              29.968076,
+              0
+            ],
+            [
+              31.716787,
+              29.966923,
+              0
+            ],
+            [
+              31.716572,
+              29.965548,
+              0
+            ],
+            [
+              31.718696,
+              29.964414,
+              0
+            ],
+            [
+              31.721014,
+              29.963614,
+              0
+            ],
+            [
+              31.721593,
+              29.964042,
+              0
+            ],
+            [
+              31.722666,
+              29.965269,
+              0
+            ],
+            [
+              31.722924,
+              29.966849,
+              0
+            ],
+            [
+              31.720971,
+              29.967499,
+              0
+            ],
+            [
+              31.719705,
+              29.968057,
+              0
+            ],
+            [
+              31.717924,
+              29.968745,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": null,
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Commercial area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.725994,
+              29.970615,
+              0
+            ],
+            [
+              31.724728,
+              29.967084,
+              0
+            ],
+            [
+              31.726724,
+              29.9666,
+              0
+            ],
+            [
+              31.729985,
+              29.966117,
+              0
+            ],
+            [
+              31.732925,
+              29.966136,
+              0
+            ],
+            [
+              31.736165,
+              29.966247,
+              0
+            ],
+            [
+              31.738976,
+              29.9666,
+              0
+            ],
+            [
+              31.739084,
+              29.967251,
+              0
+            ],
+            [
+              31.739041,
+              29.970448,
+              0
+            ],
+            [
+              31.73741,
+              29.970188,
+              0
+            ],
+            [
+              31.733955,
+              29.969909,
+              0
+            ],
+            [
+              31.731852,
+              29.969928,
+              0
+            ],
+            [
+              31.729771,
+              29.970039,
+              0
+            ],
+            [
+              31.727604,
+              29.970299,
+              0
+            ],
+            [
+              31.725994,
+              29.970615,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Tiba Rose",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "150 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Tiba Rose"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.735675,
+              29.977554,
+              0
+            ],
+            [
+              31.734517,
+              29.977591,
+              0
+            ],
+            [
+              31.732221,
+              29.977796,
+              0
+            ],
+            [
+              31.729903,
+              29.978204,
+              0
+            ],
+            [
+              31.728251,
+              29.97865,
+              0
+            ],
+            [
+              31.72692,
+              29.979152,
+              0
+            ],
+            [
+              31.724131,
+              29.971996,
+              0
+            ],
+            [
+              31.726191,
+              29.971364,
+              0
+            ],
+            [
+              31.728358,
+              29.970937,
+              0
+            ],
+            [
+              31.730762,
+              29.970658,
+              0
+            ],
+            [
+              31.733272,
+              29.970602,
+              0
+            ],
+            [
+              31.735589,
+              29.970732,
+              0
+            ],
+            [
+              31.735675,
+              29.977554,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Misr Italia",
+        "Consulting": "ECB انجنيرينج بيرو",
+        "Location": "R7",
+        "Area": "200 acre",
+        "BUA": "22%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2017,
+        "Facebook": 104883,
+        "Instagram": 6744,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2020,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Il Bosco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.719442,
+              29.977428,
+              0
+            ],
+            [
+              31.717468,
+              29.975216,
+              0
+            ],
+            [
+              31.71957,
+              29.973915,
+              0
+            ],
+            [
+              31.72148,
+              29.972967,
+              0
+            ],
+            [
+              31.723776,
+              29.972094,
+              0
+            ],
+            [
+              31.724849,
+              29.974752,
+              0
+            ],
+            [
+              31.724034,
+              29.975012,
+              0
+            ],
+            [
+              31.72163,
+              29.976127,
+              0
+            ],
+            [
+              31.719442,
+              29.977428,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "SUD",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "57 acre",
+        "BUA": "19%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 15500,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 8,
+        "Launched": 2018,
+        "Facebook": 136373,
+        "Instagram": 2112,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Capital Heights 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.726652,
+              29.979113,
+              0
+            ],
+            [
+              31.725471,
+              29.979577,
+              0
+            ],
+            [
+              31.723905,
+              29.980395,
+              0
+            ],
+            [
+              31.722532,
+              29.981287,
+              0
+            ],
+            [
+              31.719678,
+              29.977682,
+              0
+            ],
+            [
+              31.721352,
+              29.976678,
+              0
+            ],
+            [
+              31.723047,
+              29.975841,
+              0
+            ],
+            [
+              31.724978,
+              29.975024,
+              0
+            ],
+            [
+              31.726652,
+              29.979113,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Home",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "50 acre",
+        "BUA": "19%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": 2017,
+        "Facebook": 12038,
+        "Instagram": 1201,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": 26425,
+        "V.FF Av.P": null,
+        "Project": "Midtown Solo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.743578,
+              29.978708,
+              0
+            ],
+            [
+              31.742569,
+              29.978374,
+              0
+            ],
+            [
+              31.740681,
+              29.977984,
+              0
+            ],
+            [
+              31.738621,
+              29.977668,
+              0
+            ],
+            [
+              31.736025,
+              29.977537,
+              0
+            ],
+            [
+              31.735982,
+              29.970679,
+              0
+            ],
+            [
+              31.737634,
+              29.970939,
+              0
+            ],
+            [
+              31.73993,
+              29.971385,
+              0
+            ],
+            [
+              31.742827,
+              29.972258,
+              0
+            ],
+            [
+              31.745852,
+              29.973485,
+              0
+            ],
+            [
+              31.743578,
+              29.978708,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Remco",
+        "Consulting": null,
+        "Location": "R7 D8",
+        "Area": "150 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Stella Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.764623,
+              29.975839,
+              0
+            ],
+            [
+              31.762241,
+              29.978292,
+              0
+            ],
+            [
+              31.760031,
+              29.976694,
+              0
+            ],
+            [
+              31.763014,
+              29.97398,
+              0
+            ],
+            [
+              31.764623,
+              29.975839,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "نادي هيئة اعضاء التدريس جامعة عين شمس‎‎",
+        "Consulting": null,
+        "Location": "R8 H1",
+        "Area": "18.14 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.762701,
+              29.978625,
+              0
+            ],
+            [
+              31.7668,
+              29.974517,
+              0
+            ],
+            [
+              31.767916,
+              29.975948,
+              0
+            ],
+            [
+              31.768473,
+              29.977268,
+              0
+            ],
+            [
+              31.76504,
+              29.980484,
+              0
+            ],
+            [
+              31.762701,
+              29.978625,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "جمعية دريم للاسكان التعاوني Al Tameer Group",
+        "Consulting": null,
+        "Location": "R8 H2",
+        "Area": "35.54 acre",
+        "BUA": "21%",
+        "Apart.SF Av.P": 9450,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 6,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": 21000,
+        "V.FF Av.P": null,
+        "Project": "Capital Dream"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.768963,
+              29.977237,
+              0
+            ],
+            [
+              31.770379,
+              29.975787,
+              0
+            ],
+            [
+              31.771967,
+              29.973519,
+              0
+            ],
+            [
+              31.773984,
+              29.973649,
+              0
+            ],
+            [
+              31.772976,
+              29.975545,
+              0
+            ],
+            [
+              31.7701,
+              29.978612,
+              0
+            ],
+            [
+              31.768963,
+              29.977237,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Better Hose",
+        "Consulting": null,
+        "Location": "R8 I3",
+        "Area": "11.55 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.770508,
+              29.978835,
+              0
+            ],
+            [
+              31.772375,
+              29.977088,
+              0
+            ],
+            [
+              31.773469,
+              29.975898,
+              0
+            ],
+            [
+              31.774724,
+              29.973919,
+              0
+            ],
+            [
+              31.777096,
+              29.974597,
+              0
+            ],
+            [
+              31.775272,
+              29.976976,
+              0
+            ],
+            [
+              31.772096,
+              29.980396,
+              0
+            ],
+            [
+              31.770508,
+              29.978835,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Aqar Masr",
+        "Consulting": null,
+        "Location": "R8 I4",
+        "Area": "16.98 acre",
+        "BUA": "19%",
+        "Apart.SF Av.P": 11250,
+        "Apart.FF Av.P": 13000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 11250,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 12,
+        "Launched": 2018,
+        "Facebook": 9874,
+        "Instagram": 746,
+        "Payment Plan": "10%+10Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Anakaji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.772117,
+              29.973147,
+              0
+            ],
+            [
+              31.774778,
+              29.969876,
+              0
+            ],
+            [
+              31.77613,
+              29.969969,
+              0
+            ],
+            [
+              31.775486,
+              29.971326,
+              0
+            ],
+            [
+              31.774145,
+              29.973333,
+              0
+            ],
+            [
+              31.772117,
+              29.973147,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "شركة العائلة للاستثمارات العقاريه ",
+        "Consulting": null,
+        "Location": "R8 I5",
+        "Area": "8.31 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.775068,
+              29.973512,
+              0
+            ],
+            [
+              31.776323,
+              29.971764,
+              0
+            ],
+            [
+              31.777138,
+              29.970147,
+              0
+            ],
+            [
+              31.779724,
+              29.970621,
+              0
+            ],
+            [
+              31.777418,
+              29.974051,
+              0
+            ],
+            [
+              31.775068,
+              29.973512,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Corner Stone",
+        "Consulting": null,
+        "Location": "R8 I6",
+        "Area": "10.87 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2020,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "The Curve"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.778132,
+              29.974329,
+              0
+            ],
+            [
+              31.780128,
+              29.971048,
+              0
+            ],
+            [
+              31.783068,
+              29.97261,
+              0
+            ],
+            [
+              31.78106,
+              29.975624,
+              0
+            ],
+            [
+              31.778132,
+              29.974329,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "جمعية كبار رجال القضاء",
+        "Consulting": null,
+        "Location": "R8 L3",
+        "Area": "47.23 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.772375,
+              29.980712,
+              0
+            ],
+            [
+              31.775278,
+              29.982814,
+              0
+            ],
+            [
+              31.777853,
+              29.985304,
+              0
+            ],
+            [
+              31.774463,
+              29.987274,
+              0
+            ],
+            [
+              31.769313,
+              29.983594,
+              0
+            ],
+            [
+              31.772375,
+              29.980712,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Laverde",
+        "Consulting": null,
+        "Location": "R8 j",
+        "Area": "33.40 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 10000,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 11250,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 8,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "0%+5Y+0%Del",
+        "Pent-H.SF Av.P": 11250,
+        "Delivery": 2022,
+        "V.SF Av.P": 13750,
+        "V.FF Av.P": null,
+        "Project": "Laverde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.776008,
+              29.982873,
+              0
+            ],
+            [
+              31.777982,
+              29.980643,
+              0
+            ],
+            [
+              31.781072,
+              29.982947,
+              0
+            ],
+            [
+              31.779956,
+              29.984397,
+              0
+            ],
+            [
+              31.778411,
+              29.985066,
+              0
+            ],
+            [
+              31.776008,
+              29.982873,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Enmaa Development",
+        "Consulting": null,
+        "Location": "R8 L10",
+        "Area": null,
+        "BUA": 25.17,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.780732,
+              29.9705,
+              0
+            ],
+            [
+              31.782196,
+              29.969497,
+              0
+            ],
+            [
+              31.783875,
+              29.968734,
+              0
+            ],
+            [
+              31.784787,
+              29.970528,
+              0
+            ],
+            [
+              31.784787,
+              29.97274,
+              0
+            ],
+            [
+              31.780732,
+              29.9705,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "المروة للمقاولات والاستثمار العقاري Mardev\n‎‎",
+        "Consulting": null,
+        "Location": "R8 L4",
+        "Area": "17.64 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 9675,
+        "Apart.FF Av.P": 12175,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": 11500,
+        "Dupl.FF Av.P": 14000,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 12,
+        "Launched": 2019,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "0%+5Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Menorca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.785028,
+              29.972848,
+              0
+            ],
+            [
+              31.785135,
+              29.970581,
+              0
+            ],
+            [
+              31.788214,
+              29.971176,
+              0
+            ],
+            [
+              31.787603,
+              29.974605,
+              0
+            ],
+            [
+              31.785028,
+              29.972848,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "جمعية الحكماء Golden House\n‎",
+        "Consulting": null,
+        "Location": "R8 L6",
+        "Area": "21.24 acre",
+        "BUA": null,
+        "Apart.SF Av.P": 8500,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": 9,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2022,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Roses"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.78815,
+              29.970976,
+              0
+            ],
+            [
+              31.785071,
+              29.970372,
+              0
+            ],
+            [
+              31.784192,
+              29.968727,
+              0
+            ],
+            [
+              31.785962,
+              29.968346,
+              0
+            ],
+            [
+              31.787936,
+              29.968178,
+              0
+            ],
+            [
+              31.788279,
+              29.969935,
+              0
+            ],
+            [
+              31.78815,
+              29.970976,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "الجمعية التعاونية للبناء والاسكان بهيئة الكهرباء\n‎‎",
+        "Consulting": null,
+        "Location": "R8 L5",
+        "Area": "17.45 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.747434,
+              29.980201,
+              0
+            ],
+            [
+              31.743915,
+              29.978825,
+              0
+            ],
+            [
+              31.746233,
+              29.97377,
+              0
+            ],
+            [
+              31.74855,
+              29.975071,
+              0
+            ],
+            [
+              31.750868,
+              29.976781,
+              0
+            ],
+            [
+              31.747434,
+              29.980201,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Secon",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "70 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2017,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Bleu Vert"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.742488,
+              29.971453,
+              0
+            ],
+            [
+              31.739806,
+              29.970598,
+              0
+            ],
+            [
+              31.739763,
+              29.966825,
+              0
+            ],
+            [
+              31.739935,
+              29.966695,
+              0
+            ],
+            [
+              31.743926,
+              29.967829,
+              0
+            ],
+            [
+              31.744012,
+              29.968052,
+              0
+            ],
+            [
+              31.742488,
+              29.971453,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Equity development",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "42 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": 22574,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Captial Way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.742727,
+              29.971506,
+              0
+            ],
+            [
+              31.744347,
+              29.968058,
+              0
+            ],
+            [
+              31.744562,
+              29.967909,
+              0
+            ],
+            [
+              31.747652,
+              29.96921,
+              0
+            ],
+            [
+              31.746042,
+              29.972965,
+              0
+            ],
+            [
+              31.742727,
+              29.971506,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Marseilia Group",
+        "Consulting": "El Afifi Engineering",
+        "Location": "R7 G2",
+        "Area": "42 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": 230018,
+        "Instagram": 1542,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Golden Yard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.7463859,
+              29.9730582,
+              0
+            ],
+            [
+              31.7479949,
+              29.9693962,
+              0
+            ],
+            [
+              31.7507089,
+              29.9707812,
+              0
+            ],
+            [
+              31.7526829,
+              29.9721102,
+              0
+            ],
+            [
+              31.7527909,
+              29.9765152,
+              0
+            ],
+            [
+              31.7524689,
+              29.9767382,
+              0
+            ],
+            [
+              31.7492929,
+              29.9746012,
+              0
+            ],
+            [
+              31.7463859,
+              29.9730582,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": null,
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": null,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.751317,
+              29.990027,
+              0
+            ],
+            [
+              31.751016,
+              29.989488,
+              0
+            ],
+            [
+              31.748849,
+              29.987852,
+              0
+            ],
+            [
+              31.747583,
+              29.987034,
+              0
+            ],
+            [
+              31.746124,
+              29.986347,
+              0
+            ],
+            [
+              31.743528,
+              29.985455,
+              0
+            ],
+            [
+              31.741725,
+              29.985083,
+              0
+            ],
+            [
+              31.737927,
+              29.985064,
+              0
+            ],
+            [
+              31.733228,
+              29.985715,
+              0
+            ],
+            [
+              31.730224,
+              29.986793,
+              0
+            ],
+            [
+              31.728357,
+              29.987666,
+              0
+            ],
+            [
+              31.726512,
+              29.988781,
+              0
+            ],
+            [
+              31.725396,
+              29.989413,
+              0
+            ],
+            [
+              31.724409,
+              29.987815,
+              0
+            ],
+            [
+              31.723078,
+              29.986049,
+              0
+            ],
+            [
+              31.721684,
+              29.984079,
+              0
+            ],
+            [
+              31.721941,
+              29.982611,
+              0
+            ],
+            [
+              31.724752,
+              29.980975,
+              0
+            ],
+            [
+              31.72737,
+              29.97986,
+              0
+            ],
+            [
+              31.732327,
+              29.978652,
+              0
+            ],
+            [
+              31.73664,
+              29.978355,
+              0
+            ],
+            [
+              31.741274,
+              29.978968,
+              0
+            ],
+            [
+              31.745502,
+              29.980325,
+              0
+            ],
+            [
+              31.747862,
+              29.981533,
+              0
+            ],
+            [
+              31.751617,
+              29.984079,
+              0
+            ],
+            [
+              31.751638,
+              29.989581,
+              0
+            ],
+            [
+              31.751317,
+              29.990027,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Talaat Moustafa Group",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "500 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 21000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 21000,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": 21000,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": 130206,
+        "Instagram": 6107,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2024,
+        "V.SF Av.P": 21000,
+        "V.FF Av.P": null,
+        "Project": "Celia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.69563,
+              30.036121,
+              0
+            ],
+            [
+              31.697003,
+              30.036381,
+              0
+            ],
+            [
+              31.698376,
+              30.036344,
+              0
+            ],
+            [
+              31.699492,
+              30.035861,
+              0
+            ],
+            [
+              31.700179,
+              30.03508,
+              0
+            ],
+            [
+              31.700436,
+              30.034263,
+              0
+            ],
+            [
+              31.708848,
+              30.036195,
+              0
+            ],
+            [
+              31.708933,
+              30.037793,
+              0
+            ],
+            [
+              31.707646,
+              30.039687,
+              0
+            ],
+            [
+              31.705715,
+              30.040765,
+              0
+            ],
+            [
+              31.703698,
+              30.041136,
+              0
+            ],
+            [
+              31.701337,
+              30.041025,
+              0
+            ],
+            [
+              31.696188,
+              30.041062,
+              0
+            ],
+            [
+              31.694514,
+              30.04095,
+              0
+            ],
+            [
+              31.692411,
+              30.04043,
+              0
+            ],
+            [
+              31.691681,
+              30.039873,
+              0
+            ],
+            [
+              31.691724,
+              30.039316,
+              0
+            ],
+            [
+              31.693398,
+              30.037718,
+              0
+            ],
+            [
+              31.6946,
+              30.036492,
+              0
+            ],
+            [
+              31.69563,
+              30.036121,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "City Edge",
+        "Consulting": "CSCEC الصينية للهندسة الانشائية",
+        "Location": "R3 D4+D5",
+        "Area": "1000 acre",
+        "BUA": "20%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": 13000,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": 16900,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": 17500,
+        "Twin-H.FF Av.P": null,
+        "Installments": 7,
+        "Launched": 2018,
+        "Facebook": 37369,
+        "Instagram": 5453,
+        "Payment Plan": "5%+7Y+0%Del",
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": 27500,
+        "Project": "Al Maqsad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.640298,
+              30.041077,
+              0
+            ],
+            [
+              31.62914,
+              30.041672,
+              0
+            ],
+            [
+              31.627595,
+              30.040706,
+              0
+            ],
+            [
+              31.625964,
+              30.039368,
+              0
+            ],
+            [
+              31.625192,
+              30.038105,
+              0
+            ],
+            [
+              31.624934,
+              30.036545,
+              0
+            ],
+            [
+              31.625278,
+              30.035207,
+              0
+            ],
+            [
+              31.62605,
+              30.033721,
+              0
+            ],
+            [
+              31.626908,
+              30.032235,
+              0
+            ],
+            [
+              31.627681,
+              30.030229,
+              0
+            ],
+            [
+              31.627595,
+              30.028594,
+              0
+            ],
+            [
+              31.627681,
+              30.026216,
+              0
+            ],
+            [
+              31.62708,
+              30.024507,
+              0
+            ],
+            [
+              31.626908,
+              30.023838,
+              0
+            ],
+            [
+              31.628368,
+              30.023615,
+              0
+            ],
+            [
+              31.629484,
+              30.022054,
+              0
+            ],
+            [
+              31.633002,
+              30.021311,
+              0
+            ],
+            [
+              31.638925,
+              30.02042,
+              0
+            ],
+            [
+              31.640556,
+              30.021683,
+              0
+            ],
+            [
+              31.641328,
+              30.023912,
+              0
+            ],
+            [
+              31.641671,
+              30.02629,
+              0
+            ],
+            [
+              31.641242,
+              30.030006,
+              0
+            ],
+            [
+              31.641071,
+              30.032458,
+              0
+            ],
+            [
+              31.642015,
+              30.036025,
+              0
+            ],
+            [
+              31.642959,
+              30.038031,
+              0
+            ],
+            [
+              31.642873,
+              30.03974,
+              0
+            ],
+            [
+              31.6415,
+              30.040854,
+              0
+            ],
+            [
+              31.640298,
+              30.041077,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "City Edge",
+        "Consulting": "CSCEC الصينية للهندسة الانشائية",
+        "Location": "R5 D4",
+        "Area": "211 acre",
+        "BUA": "22%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": 37369,
+        "Instagram": 5453,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2020,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Baroque"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.608244,
+              30.008964,
+              0
+            ],
+            [
+              31.600434,
+              30.010302,
+              0
+            ],
+            [
+              31.596829,
+              30.010673,
+              0
+            ],
+            [
+              31.594254,
+              30.010376,
+              0
+            ],
+            [
+              31.590391,
+              30.009484,
+              0
+            ],
+            [
+              31.586958,
+              30.007552,
+              0
+            ],
+            [
+              31.584726,
+              30.005396,
+              0
+            ],
+            [
+              31.583353,
+              30.003018,
+              0
+            ],
+            [
+              31.58404,
+              30.000267,
+              0
+            ],
+            [
+              31.586615,
+              29.998335,
+              0
+            ],
+            [
+              31.59228,
+              29.997443,
+              0
+            ],
+            [
+              31.598459,
+              29.997071,
+              0
+            ],
+            [
+              31.60524,
+              29.996253,
+              0
+            ],
+            [
+              31.605412,
+              29.99774,
+              0
+            ],
+            [
+              31.605583,
+              30.002646,
+              0
+            ],
+            [
+              31.608244,
+              30.008964,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Lavista Development",
+        "Consulting": null,
+        "Location": "R4",
+        "Area": "910 acre",
+        "BUA": "15%",
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2019,
+        "Facebook": 94210,
+        "Instagram": 6597,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": 2023,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Lavista City"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.7387764,
+              29.9531069,
+              0
+            ],
+            [
+              31.7371671,
+              29.953832,
+              0
+            ],
+            [
+              31.7357294,
+              29.9541481,
+              0
+            ],
+            [
+              31.7342274,
+              29.9538506,
+              0
+            ],
+            [
+              31.7330901,
+              29.9532929,
+              0
+            ],
+            [
+              31.7322318,
+              29.9522517,
+              0
+            ],
+            [
+              31.7318885,
+              29.9511362,
+              0
+            ],
+            [
+              31.7318027,
+              29.9501694,
+              0
+            ],
+            [
+              31.7322318,
+              29.9492026,
+              0
+            ],
+            [
+              31.7327683,
+              29.9485333,
+              0
+            ],
+            [
+              31.7330472,
+              29.9475851,
+              0
+            ],
+            [
+              31.7386048,
+              29.948682,
+              0
+            ],
+            [
+              31.7388837,
+              29.9488865,
+              0
+            ],
+            [
+              31.7389266,
+              29.9493699,
+              0
+            ],
+            [
+              31.7389481,
+              29.9506156,
+              0
+            ],
+            [
+              31.7389266,
+              29.9530326,
+              0
+            ],
+            [
+              31.7387764,
+              29.9531069,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "Rhodes",
+        "Consulting": null,
+        "Location": "R7",
+        "Area": "100 acre",
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2018,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "Rhodes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.7269186,
+              30.0076303,
+              0
+            ],
+            [
+              31.7268327,
+              30.0069613,
+              0
+            ],
+            [
+              31.7274121,
+              30.0060137,
+              0
+            ],
+            [
+              31.7289141,
+              30.0053633,
+              0
+            ],
+            [
+              31.7293004,
+              30.0076488,
+              0
+            ],
+            [
+              31.7269186,
+              30.0076303,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Developer": "El Masa Captial",
+        "Consulting": null,
+        "Location": null,
+        "Area": null,
+        "BUA": null,
+        "Apart.SF Av.P": null,
+        "Apart.FF Av.P": null,
+        "Pent-H.FF Av.P": null,
+        "Dupl.SF Av.P": null,
+        "Dupl.FF Av.P": null,
+        "Town-H.SF Av.P": null,
+        "Town-H.FF Av.P": null,
+        "Twin-H.SF Av.P": null,
+        "Twin-H.FF Av.P": null,
+        "Installments": null,
+        "Launched": 2020,
+        "Facebook": null,
+        "Instagram": null,
+        "Payment Plan": null,
+        "Pent-H.SF Av.P": null,
+        "Delivery": null,
+        "V.SF Av.P": null,
+        "V.FF Av.P": null,
+        "Project": "El Masa Captial"
+      }
+    }
+  ]
+}
