@@ -39,9 +39,9 @@ h6 {
 
 .leaflet-control-custom {
   padding: 6px 8px;
-  background: white;
+  background: graye;
   box-shadow: 0 1px 5px rgba(0,0,0,0.4);
-  color: #333;
+  color: #000;
   border-radius: 5px;
 }
 
